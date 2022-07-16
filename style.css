@@ -1,0 +1,98 @@
+body{
+  background-image: url(/home/andrea/Desktop/Html/CodingChallenge/background.jpg);
+background-size:cover;
+
+}
+
+#container{
+  width: 1200px;
+  height: 850px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+header{
+  text-align: center;
+}
+
+img{
+  width: 250px;
+  margin-top: 100px;
+}
+
+#titolo{
+  color: rgb(0, 255, 0);
+}
+
+.box{
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: rgb(0, 255, 0);
+  height: 45px;
+}
+
+.button-box{
+  margin-left: 350px;
+  padding-top: 12px;
+}
+
+main{
+  margin-top: 30px;
+  margin-left: 100px;
+  color: white;
+}
+
+.opzione2{
+  margin-top: 30px;
+}
+
+.opzione3{
+  margin-top: 30px;
+}
+
+
+.second-row{
+  margin-top: 5px;
+}
+
+.third-row{
+  margin-top: 5px;
+}
+
+.nome{
+  font-size: 20px;
+  font-family: monospace;
+}
+
+.indirizzo{
+  font-size: 15px;
+  font-family: monospace;
+}
+
+.carica{
+  font-size: 15px;
+  font-family: monospace;
+}
+
+.charge-box1{
+  width: 400px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: orange;
+}
+
+.charge-box2{
+  width: 700px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: green;
+}
+
+.charge-box3{
+  width: 150px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: red;
+}
